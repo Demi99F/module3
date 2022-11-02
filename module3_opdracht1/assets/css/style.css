@@ -1,0 +1,357 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#container {
+    height: 1500px;
+    width: 1200px;
+    border: 1px solid black;
+    background-color: rgb(244, 244, 222);
+    margin: 0 auto;
+}
+
+h1 {
+    color: white;
+}
+
+#header {
+    width: 1200px;
+    height: 180px;
+    border: 1px solid black;
+    margin-bottom: 60px;
+    background-color:rgb(156, 47, 8) ;
+}
+
+.class-for-index {
+    background-image: url(https://images2.alphacoders.com/261/thumb-1920-26102.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.een {
+    height: 150px;
+    width: 200px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-top: 9px solid rgb(156, 47, 8);
+    font-size: 17px;
+    text-align: center;
+    background-color: rgb(177, 126, 90);
+}
+
+.twee {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-top: 9px solid rgb(156, 47, 8);
+    text-align: center;
+    background-color: rgb(177, 126, 90);
+}
+
+#harry {
+   float: left;
+   margin-left: 10px;
+}
+
+#dune {
+    float: left;
+    margin-left: 10px;
+}
+
+#boek {
+    float: left;
+    margin-left: 10px;
+}
+.drie {
+    height: 150px;
+    width: 200px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-top: 9px solid rgb(156, 47, 8);
+    text-align:center;  
+    background-color: rgb(177, 126, 90);
+}
+
+.nieuws {
+    margin-top: 40px;
+}
+
+#nieuwsbrief {
+    margin-top: 10px;
+    background-color: rgb(132, 79, 41);
+    height: 25px;
+    border: none;
+    color: white;
+}
+
+.vier {
+    height: 150px;
+    width: 200px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-top: 9px solid rgb(156, 47, 8);
+    text-align: center;
+    background-color: rgb(177, 126, 90);
+}
+
+.vijf {
+    height: 150px;
+    width: 200px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-top: 9px solid rgb(156, 47, 8);
+    text-align: center;
+    background-color: rgb(177, 126, 90);
+}
+
+.zes {
+    height: 290px;
+    width: 200px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-top: 9px solid rgb(156, 47, 8);
+    text-align: center;
+    background-color: rgb(177, 126, 90);
+}
+
+hr {
+    border: 1px solid black;
+}
+
+.ding {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 50px;
+}
+
+.dingtwee {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 70px;
+}
+
+.dingdrie {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 90px;
+    margin-left: 10px;
+}
+
+.dingvier {
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px;
+    margin-left: 260px;
+}
+
+.dingvijf {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 50px;
+    margin-top: 10px;
+}
+
+.dingzes {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 70px;
+    margin-top: 10px;
+}
+
+.dingzeven {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 90px;
+    margin-top: 10px;
+}
+
+.dingacht {
+
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 50px;
+    margin-left: 310px;
+    margin-top: 10px;
+}
+
+.dingnegen {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 50px;
+    margin-top: 10px;
+}
+
+.dingtien {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 70px;
+    margin-top: 10px;
+}
+
+.dingelf {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 90px;
+    margin-top: 10px;
+}
+
+.dingtwaalf {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 125px;
+    margin-top: 10px;
+}
+
+.dingdertien {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 1000000px;
+    margin-top: 10px;
+}
+
+
+.dingvijftien {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 50px;
+    margin-top: 10px;
+}
+
+.dingzestien {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 70px;
+    margin-top: 10px;
+}
+
+.dingzeventien {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 90px;
+    margin-top: 10px;
+}
+
+.dingachtien {
+    float: right;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; right: 125px;
+    margin-top: 10px;
+}
+
+.dingnegentien {
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -830px; left: 945px;
+    margin-top: 10px;
+}
+
+.dingtwintig {
+    float: left;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1065px; left: 720px;
+    margin-top: 10px;
+}
+
+.dingtwin {
+    float: left;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; left: 500px;
+    margin-top: 10px;
+}
+
+.dingtwinn {
+    float: left;
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; top: -1300px; left: 55px;
+    margin-top: 10px;
+}
+
+
+
+.slider {
+    margin-top: 80px;
+    accent-color: white ;
+}
+
+label {
+    margin-left: 10px;
+}
+
+.t {
+    margin-left: 110px;
+}
+
+a:link {
+    color: black;
+}
+
+.onder {
+    border: 2px solid black;
+    height: 50px;
+    width: 1200px;
+    position: relative; bottom: 710px;
+    right: 3px;
+    background-color: rgb(156, 47, 8);
+    color: white;
+    text-align: left;
+}
+
+.pagina {
+    float: right;
+    height: 50px;
+    width: 970px;
+    position: relative; bottom: 1235px;
+    text-align: center;
+}
+
+.paginas {
+    height: 10px;
+    width: 10px;
+    background-color: rgb(217, 156, 110);
+}
