@@ -1,0 +1,115 @@
+
+#container {
+    height: 1500px;
+    width: 1200px;
+    border: 1px solid black;
+    background-color: rgb(244, 244, 222);
+    margin: 0 auto;
+}
+
+#header {
+    width: 1200px;
+    height: 180px;
+    border: 1px solid black;
+    margin-bottom: 60px;
+    background-color:rgb(156, 47, 8) ;
+}
+
+body {
+    background-image: url(https://images2.alphacoders.com/261/thumb-1920-26102.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#pride {
+    float: left;
+    margin-left: 100px;
+}
+    
+
+#pp1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    margin: 0 auto;
+}
+
+#pp3 {
+    font-size: 20px;
+}
+
+.prijs {
+    border-radius: 8%;
+    border: none;
+    background-color: rgb(132, 79, 41);
+    color: white;
+    height: 40px;
+    width: 110px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.onder {
+    border: 2px solid black;
+    height: 50px;
+    width: 1200px;
+    position: relative; bottom: 50px;
+    left: 110px;
+    background-color: rgb(156, 47, 8);
+    color: white;
+    text-align: left;
+}
+
+label {
+    width: 200px;
+    display: inline-block;
+    text-align: right;
+}
+
+#color {
+    width: 200px;
+    border: none;
+}
+
+.left {
+    text-align: left;
+}
+
+h1 {
+    color: #285dab;
+    font-family: DobraSlabMedium,Georgia,Times New Roman,Times,"Droid Serif",serif;
+}
+
+img {
+   position: relative; top: -9px; left: -9px;
+}
+
+h2 {
+    color: #285dab;
+    font-family: DobraSlabMedium,Georgia,Times New Roman,Times,"Droid Serif",serif;
+}
+
+#footereen {
+    height: 60px;
+    width: 750px;
+    background-color: rgb(248, 245, 245);
+    margin-top: 200px;
+}
+
+button {
+    float: right;
+    height: 45px;
+    width: 115px;
+    margin-top: 8px;
+    background-color: rgb(174, 83, 30);
+    border: darkgreen;
+    border-radius: 6px;
+    font-size: 20px; color: white;
+}
+
+.wrapper {
+    margin-left: 80px;
+}
+
+.logo {
+    margin-left: 10px;
+    margin-top: 10px;
+}
